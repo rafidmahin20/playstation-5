@@ -1,9 +1,14 @@
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Header from './Components/Header/Header';
 
 function App() {
   return (
     <div >
-      <h1 className='text-center text-6xl'>hello there</h1>
+      <Header></Header>
+      <Routes>
+        <Route path='/' element={<}/>
+      </Routes>
     </div>
   );
 }
