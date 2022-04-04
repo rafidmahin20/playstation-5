@@ -4,7 +4,7 @@ const ReviewPage = ({review}) => {
     const {name, picture, rating, review_section} = review;
     return (
         <div>
-            <div className='flex justify-center'>
+            <div className='flex justify-center pb-20'>
                 <div className='rounded-lg shadow-lg bg-white max-w-sm'>
                     <img className='rounded-t-lg' src={picture} alt=""></img>
                 <div className='p-6'>
