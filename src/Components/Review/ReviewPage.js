@@ -1,9 +1,10 @@
 import React from 'react';
-import UseReview from './UseReview';
+import UseReview from '../Hooks/UseReview';
 import Reviews from './Reviews';
 
+
 const ReviewPage = ({review}) => {
-    const [reviews] = UseReview();
+    const [reviews] = UseReview()
     return (
         <div>
              <h1 className='text-center text-4xl font-sans fony-bold text-cyan-700 pb-20 pt-10'>Welcome to our customer review section</h1>
