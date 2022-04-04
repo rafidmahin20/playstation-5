@@ -45,8 +45,8 @@ const ChartTwo = () => {
             <XAxis dataKey="name"/>
             <YAxis/>
             <Tooltip/>
-            <Bar dataKey="price" fill='#8884d8'/>
-            <Bar dataKey="margin" fill='#82ca9d'/>
+            <Bar dataKey="margin" fill='#8884d8'/>
+            <Bar dataKey="price" fill='#82ca9d'/>
         </BarChart>
     );
 };
