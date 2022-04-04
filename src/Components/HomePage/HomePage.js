@@ -3,7 +3,8 @@ import ps5 from '../../ps5.jpeg';
 
 const HomePage = () => {
     return (
-        <section className='px-4 pt-20 pb-24 mx-auto max-w-7xl md:px-2'>
+       <main>
+            <section className='px-4 pt-20 pb-24 mx-auto max-w-7xl md:px-2'>
             <div className='h-full grid grid-cols-1 gap-24 md:grid-cols-2 '>
                 <div>
                     <h1 className='text-7xl font-bold text-blue-500 md:text-3xl'>Future of gaming</h1>
@@ -17,6 +18,10 @@ const HomePage = () => {
                 </div>
             </div>
         </section>
+        <section>
+            <h1 className='text-center text-4xl font-sans font-medium text-cyan-700 pt-10 pb-10'>Review Section</h1>
+        </section>
+       </main>
     );
 };
 
