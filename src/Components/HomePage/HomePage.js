@@ -5,7 +5,7 @@ const HomePage = () => {
     return (
        <main>
             <section className='px-4 pt-10 pb-10 mx-auto max-w-7xl md:px-2'>
-            <div className='h-full grid grid-cols-1 gap-24 md:grid-cols-2 '>
+            <div className='h-full grid grid-cols-1 gap-20 md:grid-cols-2 '>
                 <div>
                     <h1 className='text-7xl font-bold text-blue-500 md:text-3xl'>Future of gaming</h1>
                     <h1 className='text-6xl font-bold text-blue-500 md:text-3xl'>Is here</h1>
