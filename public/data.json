@@ -1,38 +1,51 @@
 [
     {
-        "month": "Mar",
-        "investment": 100000,
-        "sell": 241,
-        "revenue": 10401
+      "_id": "624b204fbaf76d28c31f7e62",
+      "picture": "https://i.ibb.co/r0pfD8p/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+      "rating": 1,
+      "name": "Judy Mosley",
+      "review_section": "this is the best console ever"
     },
     {
-        "month": "Apr",
-        "investment": 200000,
-        "sell": 423,
-        "revenue": 24500
+      "_id": "624b204ff9a4892fd2779949",
+      "picture": "https://i.ibb.co/0jnDtzs/matheus-ferrero-pg-WCHWSd-T8-unsplash.jpg",
+      "rating": 5,
+      "name": "Hattie Velez",
+      "review_section": "finally dream come true"
     },
     {
-        "month": "May",
-        "investment": 500000,
-        "sell": 726,
-        "revenue": 67010
+      "_id": "624b204f80b165412d285a80",
+      "picture": "https://i.ibb.co/g3Fd268/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+      "rating": 5,
+      "name": "Belinda Buchanan",
+      "review_section": "its performance is so cool"
     },
     {
-        "month": "Jun",
-        "investment": 500000,
-        "sell": 529,
-        "revenue": 40405
+      "_id": "624b204f75a6a709227477bf",
+      "picture": "https://i.ibb.co/3z5C2xN/ben-parker-Oh-KEl-Ok-Q3-RE-unsplash.jpg",
+      "rating": 2,
+      "name": "Chasity Rasmussen",
+      "review_section": "better than x-box one"
     },
     {
-        "month": "Jul",
-        "investment": 600000,
-        "sell": 601,
-        "revenue": 50900
+      "_id": "624b204fd3a6176ad09a3a55",
+      "picture": "https://i.ibb.co/8jhCp8K/michael-austin-jg-SAuq-Mm-JUE-unsplash.jpg",
+      "rating": 5,
+      "name": "Ann Mueller",
+      "review_section": "its display and performance is awesome"
     },
     {
-        "month": "Aug",
-        "investment": 700000,
-        "sell": 670,
-        "revenue": 61000
+      "_id": "624b204fd3a7c4ee195c6261",
+      "picture": "https://i.ibb.co/P9xLWfQ/mohammad-khaksarmadani-4-FDs-Nc-CR8i-Q-unsplash.jpg",
+      "rating": 5,
+      "name": "Sullivan Middleton",
+      "review_section": "a lots of improvement from ps4"
+    },
+    {
+      "_id": "624b204f77b5a9b2a21c771b",
+      "picture": "https://i.ibb.co/LzgdQt3/jeffery-erhunse-Z9lbm-Ejy-Yj-U-unsplash.jpg",
+      "rating": 2,
+      "name": "Edna Herring",
+      "review_section": "thank you sony for making this"
     }
-]
+  ]

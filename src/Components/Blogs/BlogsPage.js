@@ -14,6 +14,9 @@ const BlogsPage = () => {
                     </div>
                     <div>
                     <h1 className='text-2xl font-sans font-bold'>What is semantic tags?</h1>
+                    <p className='text-xl font-sans font-medium'>
+                        - A semantic element clearly describes its meaning to both the browser and the developer. Semantic elements show some meaning through their name. For example article tag it shows what is meant to be done. Some of the semantic elements are article, nav, aside, footer, main etc. Semantic elements have meaningful name which tells about type of content.
+                    </p>
                     </div>
                 </div>
             </section>
