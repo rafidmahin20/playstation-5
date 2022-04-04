@@ -14,7 +14,7 @@ const HomePage = () => {
                     </p>
                 </div>
                 <div className='flex aspect-w-3 aspect-h-2 order-1 md:order-2'>
-                    <img className='mx-auto object-cover rounded-full h-90 w-90' src={ps5} alt='ps5image'></img>
+                    <img className='mx-auto object-cover h-90 w-90' src={ps5} alt='ps5image'></img>
                 </div>
             </div>
         </section>
