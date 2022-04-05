@@ -40,7 +40,9 @@ const ChartTwo = () => {
         }
       ]
     return (
-        <BarChart width={400} height={250} data={data}>
+        <div>
+          <h3 className='text-xl'>Investment vs revenue</h3>
+          <BarChart width={400} height={250} data={data}>
             <CartesianGrid strokeDasharray="3 3"/>
             <XAxis dataKey="name"/>
             <YAxis/>
@@ -48,6 +50,7 @@ const ChartTwo = () => {
             <Bar dataKey="margin" fill='#8884d8'/>
             <Bar dataKey="price" fill='#82ca9d'/>
         </BarChart>
+        </div>
     );
 };
 
