@@ -11,7 +11,9 @@ const ReviewPage = ({review}) => {
                     <h1 className='text-gray-900 text-xl font-medium mb-2'>Name:{name}</h1>
                     <p className='text-gray-700 text-base mb-4'>{review_section}
                     </p>
-                    <h1 className='text-gray-900 text-xl font-medium mb-2'>Rating:{rating}</h1>
+                    <h1 className='text-gray-900 text-xl font-medium mb-2'>Rating:{rating}
+                   
+                    </h1>
                 </div>
                 </div>
             </div>
