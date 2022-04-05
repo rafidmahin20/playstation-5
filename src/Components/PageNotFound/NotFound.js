@@ -12,7 +12,7 @@ const NotFound = () => {
             </div>
             <div>
                 <div className='w-full h-full bg-gray-200 rounded-lg'>
-                    <img src='https://thumbs.dreamstime.com/b/%C3%B0%C2%BF%C3%B0%C2%B5%C3%B1%E2%80%A1%C3%B0%C2%B0%C3%B1%E2%80%9A%C3%B1%C5%93-134036857.jpg' alt=''></img>
+                    <img src='https://i.ibb.co/vYCgLw6/3733.jpg' alt=''></img>
                 </div>
             </div>
         </div>
