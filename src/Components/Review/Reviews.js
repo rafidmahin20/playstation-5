@@ -1,5 +1,4 @@
 import React from 'react';
-import Rating from 'react-rating';
 
 const ReviewPage = ({review}) => {
     const {name, picture, rating, review_section} = review;
@@ -13,7 +12,6 @@ const ReviewPage = ({review}) => {
                     <p className='text-gray-700 text-base mb-4'>{review_section}
                     </p>
                     <h1 className='text-gray-900 text-xl font-medium mb-2'>Rating:{rating}
-                    <Rating readonlyinitialRating={rating}></Rating>
                     </h1>
                 </div>
                 </div>
